@@ -1,5 +1,5 @@
 
-![чикс](https://github.com/InTouche/.github/blob/main/profile/background.jpeg)
+![чикс](https://github.com/InTouche/.github/blob/main/profile/header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%95DDD4A&lines=Чиикс+Бэээмс)](https://git.io/typing-svg)
 
 ---
